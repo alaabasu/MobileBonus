@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # api_assigment1
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# MobileBonus
+>>>>>>> 9f50cf2d97c56c735f01ccd865460aec7fd76557
