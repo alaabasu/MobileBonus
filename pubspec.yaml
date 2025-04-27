@@ -1,0 +1,26 @@
+name: api_assigment1
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0' # Changed to a more general constraint
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  cupertino_icons: ^1.0.2
+  image_picker: ^1.0.4
+  geolocator: ^9.0.1  # Use a compatible version of geolocator
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0 #  Downgraded flutter_lints.  5.0.0 caused build failure.
+
+flutter:
+  uses-material-design: true
